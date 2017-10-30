@@ -1,0 +1,58 @@
+/* 
+* @Author: Busy
+* @Date:   2017-08-15 14:36:46
+* @Last Modified by:   Busy
+* @Last Modified time: 2017-10-30 19:07:42
+*/
+@charset "utf-8";
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+img {
+    border: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+input, textarea {
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+textarea {
+    resize: none;
+}
+
+.clearfix:after, .clearfix:before {
+    content: '';
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
